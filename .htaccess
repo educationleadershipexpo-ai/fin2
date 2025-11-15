@@ -1,0 +1,15 @@
+RewriteEngine On
+
+# --- Clean URLs (Remove .html) ---
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^([^/]+)$ $1.html [L]
+
+# --- Redirect old .html links to new clean URLs ---
+RewriteCond %{THE_REQUEST} "^[A-Z]{3,}\s/+(.+)\.html\s" [NC]
+RewriteRule ^ %1 [R=301,L]
+
+# --- Fix broken URLs ---
+Redirect 301 /programme-agenda/ /workshops
+Redirect 301 /speakers/ /
+Redirect 301 /sponsors-exhibitors/ /booth-features
+Redirect 301 /visitors-info/ /contact

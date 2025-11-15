@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+<!-- Home -->
+<url>
+  <loc>https://eduexpoqatar.com/index.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/index.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/index-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/index-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/index.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/index-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+
+<!-- About -->
+<url>
+  <loc>https://eduexpoqatar.com/about.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/about.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/about-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/about-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/about.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/about-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<!-- Visit -->
+<url>
+  <loc>https://eduexpoqatar.com/why-attend.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/why-attend.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/why-attend-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/why-attend-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/why-attend.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/why-attend-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/plan-your-trip.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/plan-your-trip.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/plan-your-trip-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/plan-your-trip-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/plan-your-trip.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/plan-your-trip-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/school-group-registration.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/school-group-registration.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/school-group-registration-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/school-group-registration-ar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/school-group-registration.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/school-group-registration-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/workshops.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/workshops.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/workshops-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/workshops-ar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/workshops.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/workshops-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<!-- For Students -->
+<url>
+  <loc>https://eduexpoqatar.com/student-registration.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/student-registration.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/student-registration-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/student-registration-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/student-registration.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/student-registration-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/career-counselling.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/career-counselling.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/career-counselling-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/career-counselling-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/career-counselling.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/career-counselling-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/qatar-expo-hackathon.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/qatar-expo-hackathon.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/qatar-expo-hackathon-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/qatar-expo-hackathon-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/qatar-expo-hackathon.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/qatar-expo-hackathon-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<!-- For Exhibitors -->
+<url>
+  <loc>https://eduexpoqatar.com/why-exhibit.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/why-exhibit.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/why-exhibit-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/why-exhibit-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/why-exhibit.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/why-exhibit-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/booth-features.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/booth-features.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/booth-features-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/booth-features-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/booth-features.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/booth-features-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/booth-registration.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/booth-registration.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/booth-registration-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/booth-registration-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/booth-registration.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/booth-registration-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+
+<!-- For Sponsors -->
+<url>
+  <loc>https://eduexpoqatar.com/sponsorship-tiers.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/sponsorship-tiers.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/sponsorship-tiers-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/sponsorship-tiers-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/sponsorship-tiers.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/sponsorship-tiers-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/brand-exposure.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/brand-exposure.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/brand-exposure-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/brand-exposure-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/brand-exposure.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/brand-exposure-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/sponsorship-registration.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/sponsorship-registration.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/sponsorship-registration-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/sponsorship-registration-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/sponsorship-registration.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/sponsorship-registration-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+
+<!-- Blog -->
+<url>
+  <loc>https://eduexpoqatar.com/blog.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/blog.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/blog-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/blog-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/blog.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/blog-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/blog-post-1.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/blog-post-1.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/blog-post-1-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/blog-post-1-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/blog-post-1.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/blog-post-1-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/blog-post-2.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/blog-post-2.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/blog-post-2-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/blog-post-2-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/blog-post-2.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/blog-post-2-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/blog-post-3.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/blog-post-3.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/blog-post-3-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/blog-post-3-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/blog-post-3.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/blog-post-3-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+
+<!-- Other Pages -->
+<url>
+  <loc>https://eduexpoqatar.com/contact.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/contact.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/contact-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/contact-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/contact.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/contact-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/faq.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/faq.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/faq-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/faq-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/faq.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/faq-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/privacy.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/privacy.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/privacy-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/privacy-ar.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/privacy.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/privacy-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://eduexpoqatar.com/thank-you.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://eduexpoqatar.com/thank-you.html"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://eduexpoqatar.com/thank-you-ar.html"/>
+  <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  <priority>0.10</priority>
+</url>
+
+</urlset>
